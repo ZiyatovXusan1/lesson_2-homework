@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url('images/wp10540034.webp');
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin:20px auto ;
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a{
+    gap: 35px;
+    display: flex;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
